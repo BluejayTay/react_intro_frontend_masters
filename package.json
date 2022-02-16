@@ -1,0 +1,23 @@
+{
+  "name": "react_intro_github_desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluejayTay/react_intro_frontend_masters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BluejayTay/react_intro_frontend_masters/issues"
+  },
+  "homepage": "https://github.com/BluejayTay/react_intro_frontend_masters#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
